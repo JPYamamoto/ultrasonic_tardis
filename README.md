@@ -1,6 +1,10 @@
 # Ultrasonic TARDIS
 
-Doctor Who themed game that uses an Ultrasonic sensor connected to a Raspberry Pi in order to control a TARDIS and prevent it from crashing into the Daleks! 
+Doctor Who themed game that uses an Ultrasonic sensor connected to a Raspberry Pi in order to control a TARDIS and prevent it from crashing into the Daleks!
+
+## Demo
+
+![](demo.gif)
 
 ## Getting Started
 
@@ -36,5 +40,5 @@ To run the game:
 Make a contribution and your name will be listed here.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
